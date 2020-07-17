@@ -1,0 +1,11 @@
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\ecftest.dll.config
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\ecftest.dll
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\ecftest.pdb
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\EntityFramework.dll
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\EntityFramework.SqlServer.dll
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\EntityFramework.xml
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\EntityFramework.SqlServer.xml
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\obj\Debug\Wcftest.csproj.CopyComplete
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\obj\Debug\ecftest.dll
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\obj\Debug\ecftest.pdb
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\obj\Debug\Wcftest.csprojAssemblyReference.cache

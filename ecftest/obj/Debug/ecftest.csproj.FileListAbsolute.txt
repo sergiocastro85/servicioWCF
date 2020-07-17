@@ -1,0 +1,6 @@
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\ecftest.dll.config
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\ecftest.dll
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\bin\ecftest.pdb
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\obj\Debug\ecftest.csprojAssemblyReference.cache
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\obj\Debug\ecftest.dll
+D:\Usuarios\scastroc\source\repos\ecftest\ecftest\obj\Debug\ecftest.pdb
